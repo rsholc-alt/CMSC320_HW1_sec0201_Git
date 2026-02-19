@@ -9,3 +9,7 @@ Answer: Data science could be applied to the field of biology, particularly for 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines branches, but rebasing connects a branch's commits to the tip of another. The goal of rebasing is to have a cleaner history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to having a nice last semester full of being present and spending time with those I love.
